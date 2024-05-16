@@ -2,6 +2,8 @@
 
 This repository contains a Python-based implementation of a facial emotion recognition system, designed to classify emotions from portrait images.
 
+## Paper
+[Facial Emotion Recognition through Portrait Images](https://www.researchgate.net/publication/380533775_Facial_Emotion_Recognition_through_Portrait_Images)
 ## Overview
 
 Facial expression recognition is a crucial aspect of human-computer interaction, with applications in various fields like psychology, marketing, robotics, and virtual assistants. This project explores the performance of traditional machine learning models for classifying five basic emotions: anger, sadness, fear, happiness, and neutral.
