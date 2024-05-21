@@ -1,4 +1,4 @@
-# Facial Emotion Recognition System
+# Facial Expression Recognition System
 
 This repository contains a Python-based implementation of a facial emotion recognition system, designed to classify emotions from portrait images.
 
