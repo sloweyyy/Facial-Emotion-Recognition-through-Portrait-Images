@@ -38,7 +38,7 @@ The following resources were used in the development of this project:
 
 ## Author
 
-Truong Le Vinh Phuc, Le Thanh Tien, Duong Thanh Tri
+Truong Le Vinh Phuc
 
 ## Contact
 
